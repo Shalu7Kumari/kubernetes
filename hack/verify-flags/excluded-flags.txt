@@ -6,6 +6,8 @@ file_content
 file_mode
 file_owner
 file_perm
+file_aql
+file_verk
 fs_type
 gke_context
 max_in_flight
